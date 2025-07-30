@@ -56,7 +56,7 @@ Execute the numbered notebooks (`notebooks/01_...` to `09_...`) in order. Each n
 
 ## 📊 Data Availability
 
-Due to Twitter’s (now X) [API terms](https://developer.x.com/en/developer-terms/agreement-and-policy), we are unable to share full tweet content. However, we provide tweet IDs, ground truth relevance labels and our engineered spatiotemporal features. These can be accessed and rehydrated using the X v2 API. This dataset and accompanying metadata are available on [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0DBK04)
+Due to Twitter’s (now X) [API terms](https://developer.x.com/en/developer-terms/agreement-and-policy), we are unable to share full tweet content. However, we provide tweet IDs, ground truth relevance labels and our engineered spatiotemporal features. These can be accessed and rehydrated using the X v2 API. This dataset and accompanying metadata are available on [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0DBK04).
 
 ## 📖 Citation
 
