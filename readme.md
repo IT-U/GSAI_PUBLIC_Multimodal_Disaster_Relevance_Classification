@@ -1,11 +1,6 @@
 # Replication code for: A Multimodal GeoAI Approach to Combining Text with Spatiotemporal Features for Enhanced Relevance Classification of Social Media Posts in Disaster Response
 
-This repository contains the replication code and materials for the study:
-
-**Hanny, D., Schmidt, S., Gandhi, S., Granitzer, M., & Resch, B. (2025).**  
-*A Multimodal GeoAI Approach to Combining Text with Spatiotemporal Features for Enhanced Relevance Classification of Social Media Posts in Disaster Response.*  
-[Submitted to *Big Earth Data*]
-
+This repository contains the replication code and materials for the study:[A multimodal GeoAI approach to combining text with spatiotemporal features for enhanced relevance classification of social media posts in disaster response](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2572140#abstract)
 
 ## 📄 Overview
 
@@ -62,11 +57,20 @@ Due to Twitter’s (now X) [API terms](https://developer.x.com/en/developer-term
 
 If you use this code or dataset in your research, please cite our work accordingly.
 ```bibtex
-@article{hanny2025multimodalRelevance,
-  title     = {A Multimodal GeoAI Approach to Combining Text with Spatiotemporal Features for Enhanced Relevance Classification of Social Media Posts in Disaster Response},
-  author    = {Hanny, David and Schmidt, Sebastian and Gandhi, Shaily and Granitzer, Michael and Resch, Bernd},
-  journal   = {TBD},
-  year      = {2025}
+@article{Hanny.2025c,
+  title = {A Multimodal {{GeoAI}} Approach to Combining Text with Spatiotemporal Features for Enhanced Relevance Classification of Social Media Posts in Disaster Response},
+  author = {Hanny, David and Schmidt, Sebastian and Gandhi, Shaily and Granitzer, Michael and Resch, Bernd},
+  year = {2025},
+  journal = {Big Earth Data},
+  volume = {0},
+  number = {0},
+  pages = {1--45},
+  publisher = {Taylor \& Francis},
+  issn = {2096-4471},
+  doi = {10.1080/20964471.2025.2572140},
+  urldate = {2025-10-24},
+  abstract = {Geo-referenced social media data supports disaster management by offering real-time insights through user-generated content. To identify critical information amid high volumes of noise, classifying the relevance of posts is essential. Most existing methods primarily use textual features, neglecting spatial and temporal context despite its importance in determining relevance. This study proposes a multimodal approach that integrates text with spatiotemporal features for relevance classification of geo-referenced social media posts. We evaluate our method on 4,574 manually labelled posts from five disasters: the 2020 California wildfires, 2021 Ahr Valley floods, 2023 Chile wildfires, 2023 Turkey earthquake and 2023 Emilia-Romagna floods. Labels were assigned based on text, geographic location and time. Our spatiotemporal features include proximity to disaster impact sites, local co-occurrences with disaster-related posts, event type and geographic context. When utilised on their own, they achieved a macro F1 score of 0.713 with a random forest classifier. A fine-tuned TwHIN-BERT-base model using only text scored 0.779. For multimodal classification, we tested feature concatenation, in-context learning, stacking and partial stacking. Partial stacking produced the highest macro F1 score (0.814). Our multilingual, context-aware classification approach lays the groundwork for more integrated GeoAI applications in disaster management, the social sciences and beyond.},
+  keywords = {disaster management,GeoAI,Machine learning,multimodal learning,Published,relevance classification,social media}
 }
 ```
 
@@ -74,3 +78,4 @@ If you use this code or dataset in your research, please cite our work according
 In case of questions, please contact: 
 David Hanny (david.hanny@it-u.at), 
 IT:U Interdisciplinary Transformation University Austria
+
