@@ -1,6 +1,8 @@
 # Replication code for: A Multimodal GeoAI Approach to Combining Text with Spatiotemporal Features for Enhanced Relevance Classification of Social Media Posts in Disaster Response
 
-This repository contains the replication code and materials for the study:[A multimodal GeoAI approach to combining text with spatiotemporal features for enhanced relevance classification of social media posts in disaster response](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2572140#abstract)
+This repository contains the replication code and materials for the study:
+
+- Hanny et al. (2025): [A multimodal GeoAI approach to combining text with spatiotemporal features for enhanced relevance classification of social media posts in disaster response](https://www.tandfonline.com/doi/full/10.1080/20964471.2025.2572140#abstract)
 
 ## 📄 Overview
 
@@ -78,4 +80,5 @@ If you use this code or dataset in your research, please cite our work according
 In case of questions, please contact: 
 David Hanny (david.hanny@it-u.at), 
 IT:U Interdisciplinary Transformation University Austria
+
 
